@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=21FF00&background=000000&center=true&repeat=false&random=false&width=500&lines=Hello%2C+World!+%F0%9F%91%8B+%C2%A1Hola%2C+Mundo!+%F0%9F%8C%90+Hallo%2C+Welt%21" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=21FF00&background=000000&center=true&repeat=false&random=false&width=500&lines=Hello%2C+World!+%F0%9F%91%8B+%C2%A1Hola%2C+Mundo!+%F0%9F%8C%90+Hallo%2C+Welt%21" alt="Typing SVG" />
   </a>
 </p>
 
