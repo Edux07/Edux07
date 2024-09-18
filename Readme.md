@@ -12,25 +12,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...   
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=21FF00&background=000000&center=true&repeat=false&random=false&width=500&lines=Hello%2C+World!+%F0%9F%91%8B+%C2%A1Hola%2C+Mundo!+%F0%9F%8C%90" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+<h1 align="center">Hola, soy <a>Edu!!</a> 👋</h1>
+</div>
 
 
 
-Welcome to my corner of the code universe! I'm Edu, and this is my GitHub repository where I store all the magic ✨. Feel free to explore and contribute!
 
 ## About Me
+I’m a dedicated developer fueled by a love for turning caffeine ☕️ into clean, efficient code 💻. My coding journey has been a blend of creativity, problem-solving, and continuous learning. Every challenge is an opportunity to sharpen my skills, and I’m always eager to explore new technologies and push the boundaries of what I can create. Let’s build something amazing together!😄
 
 ---
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=Edux07&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Edux07&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Edux07&theme=merko&hide_border=true&background=FFFFFF00">
-</p>
-<!-- https://github.com/anuraghazra/github-readme-stats#github-readme-stats -->
+ <table align="center">
+  <tr>
+    <tr>
+        <td colspan="2" align="center">
+           Look at my Stats
+        </td>
+        </tr>
+    <td>
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Edux07&show_icons=true&theme=blue-green" />
+    </td>
+    <td>
+      <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Edux07&layout=compact&theme=blue-green">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,5 +45,11 @@ Welcome to my corner of the code universe! I'm Edu, and this is my GitHub reposi
 
 <!--Contador-->
  
-   <img alt="Static Badge" align="center" src="https://img.shields.io/badge/%F0%9D%9A%85%F0%9D%99%B8%F0%9D%9A%82%F0%9D%99%B8%F0%9D%9A%83%F0%9D%99%BE%F0%9D%9A%81%20%F0%9D%99%B2%F0%9D%99%BE%F0%9D%9A%84%F0%9D%99%BD%F0%9D%9A%83%20-black?style=flat-square&logo=github&logoColor=1BFF00&link=https%3A%2F%2Fhub.docker.com%2Fu%2Falumnodam" width="210">
-    <img src="https://profile-counter.glitch.me/{DWMMI}/count.svg" align="center"/>
+ <table align="center">
+  <tr>
+    <td>
+   <img alt="Static Badge" src="https://img.shields.io/badge/%F0%9D%9A%85%F0%9D%99%B8%F0%9D%9A%82%F0%9D%99%B8%F0%9D%9A%83%F0%9D%99%BE%F0%9D%9A%81%20%F0%9D%99%B2%F0%9D%99%BE%F0%9D%9A%84%F0%9D%99%BD%F0%9D%9A%83%20-black?style=flat-square&logo=github&logoColor=1BFF00&link=https%3A%2F%2Fhub.docker.com%2Fu%2Falumnodam" width="210">
+    <img src="https://profile-counter.glitch.me/{Edux07}/count.svg" align="right"/>
+    </td>
+  </tr>
+</table>
