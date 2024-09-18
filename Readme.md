@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h1 align="center">Hola, soy <a>Edu!!</a> 👋</h1>
+  <h1 align="center">Hello, i'm <a>Edu!!</a> 👋</h1>
   <img src="https://github.com/Edux07/Edux07/blob/main/city_cut.gif" />
 
 </div>
