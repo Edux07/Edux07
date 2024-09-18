@@ -24,8 +24,6 @@ Welcome to my corner of the code universe! I'm Edu, and this is my GitHub reposi
 
 ## About Me
 
-I'm a passionate developer who loves to turn coffee ☕️ into code 💻. My journey in the world of programming has been filled with exciting challenges and endless learning. I'm always eager to expand my horizons.
-
 ---
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Edux07&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
