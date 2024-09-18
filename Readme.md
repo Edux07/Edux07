@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <h1 align="center">Hola, soy <a>Edu!!</a> 👋</h1>
-  <img src="https://github.com/Edux07/Edux07/blob/main/GifCoding.gif" width="400" height="auto" />
-   <img src="https://github.com/Edux07/Edux07/blob/main/Codejava.gif" width="400" height="auto" />
+  <img src="https://github.com/Edux07/Edux07/blob/main/city_cut.gif" />
+
 </div>
 
 
